@@ -1,0 +1,7 @@
+# ##################################################
+# 2019-08, Bruno Grossniklaus, https://github.com/it-gro
+#
+# ##################################################
+# mongo
+pymongo     # Python driver for MongoDB  https://pypi.org/project/pymongo/
+dnspython   # The "dnspython" module must be installed to use mongodb+srv:// URIs

@@ -1,0 +1,7 @@
+# ##################################################
+# 2019-08, Bruno Grossniklaus, https://github.com/it-gro
+#
+# ##################################################
+# MariaDB
+pymysql                 # https://pypi.org/project/PyMySQL/                  Pure Python MySQL Driver
+mysql-connector-python  # https://pypi.org/project/mysql-connector-python/   MySQL driver written in Python
